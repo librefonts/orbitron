@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="Euro"/>
+      <psName name="uniE000"/>
+      <psName name="seven.alt"/>
+      <psName name="nine.alt"/>
+      <psName name="two.alt"/>
+      <psName name="question.alt"/>
+      <psName name="four.alt"/>
+      <psName name="V.alt"/>
+      <psName name="A.alt"/>
+      <psName name="A.alt2"/>
+      <psName name="CR"/>
+      <psName name="A.alt3"/>
+      <psName name="C.alt"/>
+      <psName name="I.alt"/>
+      <psName name="J.alt"/>
+      <psName name="K.alt"/>
+      <psName name="M.alt"/>
+      <psName name="N.alt"/>
+      <psName name="O.alt"/>
+      <psName name="Q.alt"/>
+      <psName name="R.alt"/>
+      <psName name="S.alt"/>
+      <psName name="V.alt2"/>
+      <psName name="V.alt3"/>
+      <psName name="W.alt"/>
+      <psName name="W.alt2"/>
+      <psName name="W.alt3"/>
+      <psName name="W.alt4"/>
+      <psName name="X.alt"/>
+      <psName name="Y.alt"/>
+      <psName name="Z.alt"/>
+      <psName name="a.alt"/>
+      <psName name="a.sc"/>
+      <psName name="b.sc"/>
+      <psName name="c.sc"/>
+      <psName name="d.sc"/>
+      <psName name="e.sc"/>
+      <psName name="f.sc"/>
+      <psName name="g.sc"/>
+      <psName name="h.sc"/>
+      <psName name="i.sc"/>
+      <psName name="j.sc"/>
+      <psName name="k.alt"/>
+      <psName name="k.sc"/>
+      <psName name="l.sc"/>
+      <psName name="m.sc"/>
+      <psName name="n.sc"/>
+      <psName name="o.sc"/>
+      <psName name="p.sc"/>
+      <psName name="q.sc"/>
+      <psName name="r.sc"/>
+      <psName name="s.sc"/>
+      <psName name="t.sc"/>
+      <psName name="u.sc"/>
+      <psName name="v.alt"/>
+      <psName name="v.sc"/>
+      <psName name="w.alt"/>
+      <psName name="w.sc"/>
+      <psName name="x.alt"/>
+      <psName name="x.sc"/>
+      <psName name="y.sc"/>
+      <psName name="z.alt"/>
+      <psName name="z.sc"/>
+    </extraNames>
+  </post>
+
+</ttFont>
