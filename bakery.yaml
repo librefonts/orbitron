@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [Orbitron-Regular.ttf.ttx, Orbitron-Medium.ttf.ttx, Orbitron-Bold.ttf.ttx,
+  Orbitron-Black.ttf.ttx, src/Orbitron-Black.otf.ttx, src/Orbitron-Medium.otf.ttx,
+  src/Orbitron-Light.otf.ttx, src/Orbitron-Bold.otf.ttx, src/Orbitron-Regular-TTF.sfd,
+  src/Orbitron-Medium-TTF.sfd, src/Orbitron-Bold-TTF.sfd, src/Orbitron-Black-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
